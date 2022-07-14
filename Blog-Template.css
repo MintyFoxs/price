@@ -4,6 +4,7 @@
 
 .u-section-1 .u-repeater-1 {
   margin-top: 60px;
+  margin-bottom: 60px;
   min-height: 441px;
   grid-template-columns: calc(33.3333% - 15px) calc(33.3333% - 15px) calc(33.3333% - 15px);
   height: auto;
