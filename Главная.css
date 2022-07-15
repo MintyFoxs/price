@@ -1,14 +1,14 @@
  .u-section-1 {
-  background-image: linear-gradient(#808080, #1a1a1a);
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/1616046090_5-p-krasivii-fon-s-sheiderami-mainkraft-6.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1028px;
+  min-height: 1176px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 600;
-  margin: 40px auto 0;
+  margin: 188px auto 0;
 }
 
 .u-section-1 .u-list-1 {
@@ -149,6 +149,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 841px;
   }
