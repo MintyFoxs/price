@@ -1,13 +1,13 @@
  .u-section-1 {
-  background-image: none;
+  background-image: url("images/1644938764_49-krot-info-p-krasivii-fon-s-sheiderami-mainkraft-50.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 280px;
+  min-height: 805px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 40px 0;
+  margin: 188px 0 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -19,6 +19,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 6px rgba(26,26,26,1);
   margin: 0;
 }
 
@@ -56,6 +57,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 231px;
   }
@@ -75,6 +80,11 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    transition-duration: 0.5s;
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   }
 }
 

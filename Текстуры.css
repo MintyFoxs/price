@@ -1,0 +1,17 @@
+ .u-section-1 {
+  background-image: url("images/1618491529_14-p-fon-mainkraft-s-sheiderami-14.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 757px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 500px;
+  }
+}
